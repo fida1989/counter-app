@@ -1,0 +1,3 @@
+# CounterApp
+
+![Screenshot](screenshot.png)
